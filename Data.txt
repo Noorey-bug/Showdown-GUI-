@@ -1,0 +1,18 @@
+Hackers | Alice, Rabia | 1
+Anonym | John, Michael | 2
+Dead | Emma, Liam | 3
+Silent | Jack, Nam | 4
+DiceGang | Ali, Muhammad | 5
+Bingus | Lisa, Woong | 6
+NU1L | Berb, Steph | 7
+Buggers | Aden, Nami | 8
+ByteMe | Sara, Ahmad | 9
+BitByBit | Jay, Jiya | 10
+Invaders | John, Lily | 11
+BinaryaBoss | Mick, Fabia | 12
+TechTitan | Daniel, Lola | 13
+Pirates | Campy, Hayya | 14
+Eror404 | Azeez, Opa | 15
+Cloud_chaser | Raza, Rajesh | 16
+
+

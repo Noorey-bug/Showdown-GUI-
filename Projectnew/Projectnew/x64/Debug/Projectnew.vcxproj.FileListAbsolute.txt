@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Projectnew\Projectnew\x64\Debug\Projectnew.vcxproj.AssemblyReference.cache
+C:\Users\user\source\repos\Projectnew\Projectnew\x64\Debug\Projectnew.MyForm.resources
+C:\Users\user\source\repos\Projectnew\Projectnew\x64\Debug\Projectnew.ScheduleForm.resources
+C:\Users\user\source\repos\Projectnew\Projectnew\x64\Debug\Projectnew.TeamsForm.resources
+C:\Users\user\source\repos\Projectnew\Projectnew\x64\Debug\Projectnew.TreeForm.resources
+C:\Users\user\source\repos\Projectnew\Projectnew\x64\Debug\Projectnew.vcxproj.GenerateResource.cache
+C:\Users\user\source\repos\Projectnew\Projectnew\x64\Debug\Projectnew.Schedule2.resources
+C:\Users\Iqra\source\repos\Projectnew\Projectnew\x64\Debug\Projectnew.vcxproj.AssemblyReference.cache
+C:\Users\Iqra\source\repos\Projectnew\Projectnew\x64\Debug\Projectnew.MyForm.resources
+C:\Users\Iqra\source\repos\Projectnew\Projectnew\x64\Debug\Projectnew.Schedule2.resources
+C:\Users\Iqra\source\repos\Projectnew\Projectnew\x64\Debug\Projectnew.ScheduleForm.resources
+C:\Users\Iqra\source\repos\Projectnew\Projectnew\x64\Debug\Projectnew.TeamsForm.resources
+C:\Users\Iqra\source\repos\Projectnew\Projectnew\x64\Debug\Projectnew.TreeForm.resources
+C:\Users\Iqra\source\repos\Projectnew\Projectnew\x64\Debug\Projectnew.vcxproj.GenerateResource.cache

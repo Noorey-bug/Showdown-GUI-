@@ -1,0 +1,14 @@
+﻿  Match.cpp
+  MyForm.cpp
+  Queue.cpp
+  Schedule.cpp
+C:\Users\Iqra\source\repos\Projectnew\Schedule.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Schedule2.cpp
+  ScheduleForm.cpp
+  Teams.cpp
+  TeamsForm.cpp
+  TreeForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Match.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Projectnew.vcxproj -> C:\Users\Iqra\source\repos\Projectnew\x64\Debug\Projectnew.exe
