@@ -44,3 +44,8 @@ Could be used for undo/redo operations if a match needs to be re-simulated.
 Visual Representation of Matches: A structured bracket system showing which teams are competing.
 Live Match Updates: Display of ongoing matches and results as they are decided.
 Interactive Controls: Users can initiate match rounds, view team progress, and reset the tournament.
+
+# ScreenShots
+![Screenshot 2025-03-17 002618](https://github.com/user-attachments/assets/8cd58242-55a2-486d-a69c-99f93e27f053)
+![Screenshot 2025-03-17 002649](https://github.com/user-attachments/assets/a17e0681-dec0-49d9-8d51-3d35a07b60ed)
+![Screenshot 2025-03-17 002633](https://github.com/user-attachments/assets/bf4e4662-2ea5-4279-b009-db93d1707ea2)
